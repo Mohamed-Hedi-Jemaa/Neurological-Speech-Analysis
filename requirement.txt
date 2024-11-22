@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+speechrecognition 
+librosa 
+numpy 
+transformers 
+openai
+wave 
+ 
